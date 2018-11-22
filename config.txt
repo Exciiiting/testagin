@@ -1,5 +1,5 @@
 token=NTE1MDY1MDE3NzE2OTY1Mzk3.DtfrPA.UzQ78x-tK-i8zjkqy2TLMS29D9c
-owner=323160008411971585
+owner=307525313154383882
 prefix=E
 game= Ehelp
 stayinchannel=true 
