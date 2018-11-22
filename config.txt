@@ -1,6 +1,6 @@
 token=NTE1MDY1MDE3NzE2OTY1Mzk3.DtfrPA.UzQ78x-tK-i8zjkqy2TLMS29D9c
 owner=307525313154383882
-prefix=E
-game= 1help
+prefix= E
+game= Ehelp
 stayinchannel=true 
 songinstatus=true 
